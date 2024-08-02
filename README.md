@@ -1,6 +1,6 @@
-# E-Commerce Website
+# E-Mart
 
-Welcome to the E-Commerce Website repository! This project is a fully functional e-commerce website built using HTML, CSS, and JavaScript. It allows users to browse products, add them to a shopping cart, and proceed to checkout. This README file will guide you through the structure of the project, how to set it up, and how to contribute.
+Welcome to the E-Mart Website repository! This project is a fully functional e-commerce website built using HTML, CSS, and JavaScript. It allows users to browse products, add them to a shopping cart, and proceed to checkout. 
 
 ## Table of Contents
 
