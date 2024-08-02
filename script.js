@@ -11,7 +11,7 @@ function myFunction(elemId) {
       elem.style.display = "none";
     }
   }
-  x = document.querySelector(`#${elemId}`);
+ x = document.querySelector(`#${elemId}`);
   if (x.style.display === "block") {
     x.style.display = "none";
   } else {
