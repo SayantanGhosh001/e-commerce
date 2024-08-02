@@ -19,7 +19,7 @@ Welcome to the E-Mart Website repository! This project is a fully functional e-c
 
 ## Demo
 
-A live demo of the website can be found [here](#).
+A live demo of the website can be found [here](https://sayantanghosh001.github.io/e-commerce/).
 
 ## Technologies Used
 
